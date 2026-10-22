@@ -1,0 +1,1 @@
+# riftsquad.pl
